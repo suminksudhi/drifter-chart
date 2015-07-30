@@ -1,0 +1,38 @@
+{
+  "name": "drifter-chart",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "seed"
+  ],
+  "main": "drifter-chart.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "_release": "c1a2966d97",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c1a2966d976b1223c145f79e6efc2df094b0c51a"
+  },
+  "_source": "git://github.com/suminksudhi/drifter-chart.git",
+  "_target": "master",
+  "_originalSource": "suminksudhi/drifter-chart",
+  "_direct": true
+}
